@@ -1,0 +1,14 @@
+WebCamT/
+data/wcbatch*/*
+data/classification/*
+data/detection/*
+data/best_train/weights
+coco/
+coco128/
+yolov5/
+env/
+
+observe.py
+Untitled.ipynb
+data/best_train/weights/last.pt
+data/best_train/weights/best.pt
